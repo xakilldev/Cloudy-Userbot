@@ -34,7 +34,7 @@
 
 Subsequent launch:
 
-<pre><code>cd Cloudy-Userbotb && python3 main.py</code></pre>
+<pre><code>cd Cloudy-Userbot && python3 main.py</code></pre>
 
 
 <h1>Custom modules</h1>
