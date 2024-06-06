@@ -2,11 +2,11 @@
 
 </a>
     <br>
-    <b>Dragon-Userbot</b>
+    <b>Cloudy-Userbot</b>
     <br>
     <b>Telegram userbot with the easiest installation</b>
     <br>
-    <a href='https://github.com/Dragon-Userbot/Dragon-Userbot#installation'>
+    <a href='https://github.com/Cloudy-Userbot/Cloudy-Userbot#installation'>
         Installation
     </a>
 
